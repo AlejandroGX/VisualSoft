@@ -1,3 +1,10 @@
+h1,h4{
+	color: #143D59;
+}
+
+p{
+	color: #22608A;
+}
 .carousel-inner{
 	max-height: 33rem;
 }
